@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking News: AI is changing the world",
+    "description": "Artificial intelligence continues to evolve rapidly.",
+    "image": "/images/HN.jpg",
+    "category": "Tech",
+    "date": "2024-01-15",
+    "author": "Tech Reporter"
+  },
+  {
+    "id": 2,
+    "title": "Sports Update: Big match tonight",
+    "description": "Two rival teams are facing each other in the finals.",
+    "image": "/images/RG.webp",
+    "category": "Sports",
+    "date": "2024-01-15",
+    "author": "Sports Desk"
+  },
+  {
+    "id": 3,
+    "title": "राज्यपाल ने किया बड़ा ऐलान",
+    "description": "राज्य में नए विकास परियोजनाओं की घोषणा की गई।",
+    "image": "/images/HN.jpg",
+    "category": "राज्य",
+    "date": "2024-01-15",
+    "author": "राज्य ब्यूरो"
+  },
+  {
+    "id": 4,
+    "title": "मनोरंजन: फिल्म ने बनाई नई रिकॉर्ड्स",
+    "description": "बॉक्स ऑफिस पर इस फिल्म ने कमाल कर दिया।",
+    "image": "/images/RG.webp",
+    "category": "मनोरंजन",
+    "date": "2024-01-15",
+    "author": "मनोरंजन टीम"
+  }
+]
